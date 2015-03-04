@@ -5,8 +5,18 @@ ehthumbs.db
 # Folder config file
 Desktop.ini
 
+#eclipes project files
+.classpath
+.project
+build.gradle
+
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+eclipse/
+gradle/
+.gradle/
+.settings/
+build/
 
 # Windows Installer files
 *.cab
