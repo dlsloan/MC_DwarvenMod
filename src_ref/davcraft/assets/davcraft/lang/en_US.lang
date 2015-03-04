@@ -1,0 +1,10 @@
+itemGroup.DavCraft=DavCraft
+tile.CopperOre.name=Copper Ore
+tile.CopperBlock.name=Copper Block
+item.CopperIngot.name=Copper Ingot
+item.IronHammer.name=Iron Hammer
+item.IronPunch.name=Iron Punch
+item.IronRod.name=Iron Rod
+item.FuelOrb.name=Fuel Orb
+
+item.IronStonePickaxe.name=Iron Handled Stone Pickaxe
