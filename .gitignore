@@ -17,6 +17,7 @@ gradle/
 .gradle/
 .settings/
 build/
+saves/
 
 # Windows Installer files
 *.cab
